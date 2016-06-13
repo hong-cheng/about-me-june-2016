@@ -1,6 +1,6 @@
 
 Hong Cheng
 
-fav color = blue
+fav color = BLUE
 
  work = sfdc
